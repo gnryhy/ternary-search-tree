@@ -1,16 +1,17 @@
 # ternary-search-tree
 ternary search tree assignment for algorithms course of hacettepe university
 
-## Requirements
+## Requirements and Restrictions
 * jdk 1.8+
 * jre 1.8+
+* only .txt files can be searched
 
 ## Installation
 * Open terminal on the directory of source files.
 * Build all files (javac *)
 
 ## Usage
-* Run the executable with specifying the text files to be searched (java Main /path/to/the/files)
+* Run the executable with specifying the path of the text files to be searched (java Main /path/to/the/files)
 * If the previous step is done in a correct way a message like below will appear.
 
 ```
